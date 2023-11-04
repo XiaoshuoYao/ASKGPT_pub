@@ -1,0 +1,37 @@
+:root {
+  --custom-border-color: #008CBA;
+  --custom-border-width: 2px;
+  --custom-bg-color: #f0f0f0;
+  --custom-bg-color-2: #6f6f6f;
+}
+
+.user-message {
+  text-align: right;
+}
+
+.gpt-message {
+  text-align: left;
+}
+
+.card {
+  border-color: var(--custom-border-color); /* Change border color */
+  border-width: var(--custom-border-width); /* Change border width */
+}
+
+.card-body {
+  background-color: var(--custom-bg-color); /* Change background color */
+}
+
+.gpt-message{
+  background-color: var(--custom-bg-color-2); /* Change background color */
+}
+
+#loadingIndicator {
+  margin-left: 10px;
+}
+
+body {
+  width: 400px; 
+  height: 300px
+  /* ... other styles for popup */
+}
