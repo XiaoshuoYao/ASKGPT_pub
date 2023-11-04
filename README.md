@@ -6,6 +6,10 @@ Ask questions while watching youtube videos
 
 [**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
 
+## Demo
+
+https://drive.google.com/file/d/1JnVIt7CIrlqpmd-fUAoJtjmCPgJUn2ZI/view?usp=sharing
+
 ---
 
 This project was bootstrapped with [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli)
